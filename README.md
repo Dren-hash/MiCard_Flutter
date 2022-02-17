@@ -1,6 +1,7 @@
 # card_flutter
 
 A new Flutter project.
+It baiscally is more like a business card but an app. Contains some few personal info. It makes use of layout widgets and the CircleAvatar widget for adding the user profile image. Row and Column widgets were replace with the Card widget which makes the code more simplifed. This application is just to help understand some flutter widgets.
 
 ## Getting Started
 
